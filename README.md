@@ -36,10 +36,21 @@ Go to the link: [click here](https://drive.google.com/file/d/1FWoLO1iURIrJN-Ccpw
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/75428863/227814397-cfc342c2-25e3-406f-8141-dda6ae61cb5d.jpg" width=90% height=90%>
-<img src="https://user-images.githubusercontent.com/75428863/227814403-deec3309-9d1d-4397-bce4-8b794fbc2cce.jpg" width=90% height=90%>
-<img src="https://user-images.githubusercontent.com/75428863/227814408-a0e51bbe-b666-4766-9160-72b3143706b1.jpg" width=90% height=90%>
-<img src="https://user-images.githubusercontent.com/75428863/227814411-098b7e29-8703-4c9e-8fb4-5b0e50dd3ed0.jpg" width=90% height=90%>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75428863/227814397-cfc342c2-25e3-406f-8141-dda6ae61cb5d.jpg" width=90% height=90%><br>
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75428863/227814403-deec3309-9d1d-4397-bce4-8b794fbc2cce.jpg" width=90% height=90%><br>
+
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75428863/227814408-a0e51bbe-b666-4766-9160-72b3143706b1.jpg" width=90% height=90%><br>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75428863/227814411-098b7e29-8703-4c9e-8fb4-5b0e50dd3ed0.jpg" width=90% height=90%><br>
+</p>
+
 
 
 
