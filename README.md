@@ -13,7 +13,7 @@ The 3D model of Earth is designed to be highly detailed and accurate, featuring 
 
 The app is designed to be used as a supplemental educational tool in classrooms or for self-directed learning. It provides a fun and engaging way for students to learn about Earth's geography, geology, and ecosystems. With this app, students can gain a deeper understanding of our planet and its place in the universe, making it a valuable addition to any educational program.
 ## Features
-- Augmetned Car model
+- Augmented Car model
 - Visualize the model in 3D environment
 - Rotate, Scale & Move
 - Realistic Lighting 
