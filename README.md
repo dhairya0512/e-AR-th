@@ -37,7 +37,7 @@ Go to the link: [click here](https://drive.google.com/file/d/1FWoLO1iURIrJN-Ccpw
 
 ## Screenshots
 <p align="center">
-<img src="image1.jpg" alt="https://user-images.githubusercontent.com/75428863/227814397-cfc342c2-25e3-406f-8141-dda6ae61cb5d.jpg" width="300"/> <img src="image2.jpg" alt="https://user-images.githubusercontent.com/75428863/227814403-deec3309-9d1d-4397-bce4-8b794fbc2cce.jpg" width="300"/>
+
 <img src="https://user-images.githubusercontent.com/75428863/227814397-cfc342c2-25e3-406f-8141-dda6ae61cb5d.jpg" width=90% height=90%><br>
 </p>
 <p align="center">
